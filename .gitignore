@@ -1,0 +1,11 @@
+node_modules/
+dist/
+backend/.venv/
+backend/.env
+backend/voiceshield.db
+backend/*.sqlite
+backend/*.sqlite3
+*.log
+*.pid
+__pycache__/
+*.py[cod]
